@@ -22,3 +22,6 @@ data/expenses.json
 
 git add .
 git commit -m "chore: Initialize Project Structure"
+
+#junk for personal use
+test.py
