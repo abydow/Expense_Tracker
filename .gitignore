@@ -1,0 +1,24 @@
+#Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+
+# Project files
+data/expenses.json
+.env
+*.log
+
+#Initial git Commit
+
+git add .
+git commit -m "chore: Initialize Project Structure"
